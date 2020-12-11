@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369838164553",
+    "firebase_url": "https://kaks-bd671.firebaseio.com",
+    "project_id": "kaks-bd671",
+    "storage_bucket": "kaks-bd671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369838164553:android:c158709c4811b28e098d98",
+        "android_client_info": {
+          "package_name": "com.greatsoft.kaksha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369838164553-1aidg89umdrh73t4aqkvf6fpq9h0khmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greatsoft.kaksha",
+            "certificate_hash": "f197becb95879f2b3529ad3682fe7951a5ec074c"
+          }
+        },
+        {
+          "client_id": "369838164553-jieiajkdtgfnp72od4c7mnqef7cuaiol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKaSJrtKpf6BbOWHE9QxhvHeg-NjKzp2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369838164553-jieiajkdtgfnp72od4c7mnqef7cuaiol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
